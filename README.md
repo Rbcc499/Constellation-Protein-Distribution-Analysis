@@ -14,8 +14,8 @@ Constellation is a desktop GUI for running proteome / protein-distance analyses 
 
 - **Analyses (Toggle On/Off)**
   - **Alignment analysis**
-    - Choose the *Longest Protein Pair* from a dropdown
-    - Set **protein locations** (presynaptic/postsynaptic; membrane/cytosol)
+    - First set **protein locations** (presynaptic/postsynaptic; membrane/cytosol)
+    - Choose the *Longest Protein Pair* from a dropdown (formulated after protein locations are set)
     - Set an **alignment tolerance**
   - **Angle analysis**
     - Pick **3 proteins (A, B, C)** to form a triangle
