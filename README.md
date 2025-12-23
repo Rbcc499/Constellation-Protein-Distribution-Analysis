@@ -12,7 +12,7 @@ Constellation is a desktop GUI for running proteome / protein-distance analyses 
   - Select a **Data Folder** (your exported analysis file from Imaris, find template excel file in template folder)
   - Select an **Expansion Factor** Excel file (`.xlsx`, find template excel file in template folder)
 
-- **Analyses**
+- **Analyses (Toggle On/Off)**
   - **Alignment analysis**
     - Choose the *Longest Protein Pair* from a dropdown
     - Set **protein locations** (presynaptic/postsynaptic; membrane/cytosol)
