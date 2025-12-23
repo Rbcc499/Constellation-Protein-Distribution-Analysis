@@ -9,8 +9,8 @@ Constellation is a desktop GUI for running proteome / protein-distance analyses 
 ## Features
 
 - **Data Inputs**
-  - Select a **Data Folder** (your exported analysis files)
-  - Select an **Expansion Factor** Excel file (`.xlsx`)
+  - Select a **Data Folder** (your exported analysis file from Imaris, find template excel file in template folder)
+  - Select an **Expansion Factor** Excel file (`.xlsx`, find template excel file in template folder)
 
 - **Analyses**
   - **Alignment analysis**
