@@ -26,6 +26,8 @@ Map synaptic protein data with Constellation. Constellation is a desktop GUI for
 - **Parameters**
   - Number of proteins: **3 or 4**
   - Cluster distance cutoff (µm) (e.g., **0.3 µm = 300 nm**)
+  - 
+<img width="1919" height="1077" alt="constellation_example_layout" src="https://github.com/user-attachments/assets/ff1916be-9c4d-4326-8135-4cef212d4e63" />
 
 - **UX**
   - Fullscreen by default
