@@ -2,12 +2,10 @@
 
 **A Constellation of Connections**
 
-Constellation is a desktop GUI for running proteome / protein-distance analyses from a folder of exported analysis files plus an expansion factor spreadsheet. It provides a clean, fullscreen interface with optional Alignment, Angle, and Enrichment analyses.
+Map synaptic protein data with Constellation. Constellation is a desktop GUI for running proteome & protein-distance analyses from a folder of exported analysis files plus an expansion factor spreadsheet. It provides a clean, fullscreen interface with optional Alignment, Angle, and Enrichment analyses.
 
-> Created by: Rebecca E. Twilley
-
----
-
+**Created by: Rebecca E. Twilley**
+Map  — a desktop GUI for protein-distance and proteome analyses. Load a folder of exported analysis files plus an expansion factor spreadsheet, then run a clean, fullscreen workflow with optional Alignment, Angle, and Enrichment analyses.
 ## Features
 
 - **Data Inputs**
