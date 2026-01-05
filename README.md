@@ -31,12 +31,12 @@
 <img width="1919" height="1077" alt="constellation_example_layout" src="https://github.com/user-attachments/assets/ff1916be-9c4d-4326-8135-4cef212d4e63" />
 
 ## Steps for Use 
-  - 1) Upload data folder containing Imaris derived excel files only.* Headers should be as per supplied template. Constellation will load excel files and read protein names. 
-  - 2) Upload expansion factor excel Headers should be a per supplied expansion_factor_template file.
-  - 3) Select the parameters you require for your analysis.
+  -  Upload data folder containing Imaris derived excel files only.* Headers should be as per supplied template. Constellation will load excel files and read protein names. 
+  -  Upload expansion factor excel Headers should be a per supplied expansion_factor_template file.
+  -  Select the parameters you require for your analysis.
     - For Alignment Analysis: Select the location of each protein, then select which protein pair that will have the longest distance.
     - For Angle Analysis: Assign which proteins will be included in the angle analysis. Then put the angle threshold (degrees).
-  - 4) Run analysis. Results will be saved in the data folder you uploaded.
+  -  Run analysis. Results will be saved in the data folder you uploaded.
   
 
 *This is an expansion on the original code obtained from: https://github.com/SiddiquiLab/Padmanabhan-et-al.-/blob/main/README.md Imaris and Huygens workflows can be found there.
