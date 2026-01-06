@@ -1,6 +1,6 @@
 <img width="1223" height="706" alt="image" src="https://github.com/user-attachments/assets/7069a8b5-aad6-4b85-b26b-bb89f320d423" />
 
-**A Constellation of Connections**
+## A Constellation of Connections
 - Map synaptic protein data with Constellation. 
 
 - Constellation is a desktop GUI for running proteome & protein-distance analyses from a folder of exported analysis files plus an expansion factor spreadsheet. It provides a clean, fullscreen interface with optional Alignment, Angle, and Enrichment analyses.
