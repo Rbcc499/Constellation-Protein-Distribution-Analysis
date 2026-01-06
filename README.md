@@ -37,9 +37,9 @@
   **4)**  Click run analysis. Results will be saved in the data folder you uploaded. <br />
   **5)**  Click refresh to refresh program to run another analysis. <br />
 
-  
+  <br />
 <img width="1919" height="1077" alt="constellation_example_layout" src="https://github.com/user-attachments/assets/ff1916be-9c4d-4326-8135-4cef212d4e63" />
 
-
+<br />
 
 *This is an expansion on the original code obtained from: https://github.com/SiddiquiLab/Padmanabhan-et-al.-/blob/main/README.md Imaris and Huygens workflows can be found there.
