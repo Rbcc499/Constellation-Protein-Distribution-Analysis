@@ -37,8 +37,8 @@
   **5)**  Click refresh to refresh program to run another analysis. <br />
 
   <br />
-<img width="1739" height="1024" alt="constellation_example_setup" src="https://github.com/user-attachments/assets/a81d1873-f237-44ff-8bdf-ed9e093d17e0" />
 
+![constellation_example_setup](https://github.com/user-attachments/assets/ed1604d1-fb93-48fc-bc55-da89b43410b8)
 
 <br />
 
