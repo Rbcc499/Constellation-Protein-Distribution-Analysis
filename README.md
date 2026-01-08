@@ -29,7 +29,7 @@
 
 ## Steps for Use 
 
-**File Nomenclature**: Files received from the imaris output need to have a specific nomenclature for the program to read. The columns inside the excel file also need specific names. <br /> **For template excel files please see the template folder.** <br /> <br />
+**File Nomenclature**: Files received from the imaris output need to have a specific nomenclature for the program to read. The columns inside the excel file also need specific names. **For template excel files please see the template folder.** <br /> <br />
 **mouseid_sliceid_roundnumber. It is imperative that the mouse id, sliceid, and roundnumber are in this order, with '_' separating. You may add additional information afterwards separated by a '_'.** <br />
 **For example:** M123L_s1h1_1 (mouseid = M123L, sliceid = s1h1, round_number = 1)
 **Correct Example:** M123L_s1h1_1_PFA_jan_1_2000, this is a correct way of naming the file
